@@ -10,7 +10,7 @@ export function Profile() {
         <div className={styles.profileContainer}>
             <img src="/fitness.svg" alt="Usuário" />
             <div>
-                <strong>Exercícios</strong>
+                <strong>Expêriençia de desafios</strong>
                 <p>
                     <img src="icons/level.svg" alt="Level" />
                     Level {level}
