@@ -1,0 +1,9 @@
+ yarn create react-app moveit --template=typescript (projeto com typescript)
+
+ yarn create next-app moveit-next (criando com next)
+
+yarn add typescript @types/react @types/react-dom @types/node -D (dependencias para o next)
+
+yarn dev (inicia projeto)
+
+yarn add js-cookie (biblioteca para armazenar variaveis no cookies) yarn add @types/js-cookie -D (typescript)
