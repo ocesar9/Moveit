@@ -6,7 +6,7 @@
 
 https://moveit-wheat-ten.vercel.app/
 
-O Projeto consiste num sistema qual icentiva a prática de exércicios laborais dentro do ambiente de trabaho por meio da gameficação desse processo. Utilizamos Typescript com React.js para o desenvolvimento de uma aplicação Web publicada no Vercel.
+O Projeto consiste num sistema qual icentiva a prática de exércicios laborais dentro do ambiente de trabalho por meio da gameficação desse processo. Utilizamos Typescript com React.js para o desenvolvimento de uma aplicação Web publicada no Vercel.
 
 ## Layout web
 ![Web 1](https://github.com/c3saroliveira/moveit/blob/master/images/Tela-inicial.PNG)
