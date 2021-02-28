@@ -18,6 +18,7 @@ O Projeto consiste num sistema qual icentiva a prática de exércicios laborais 
 # Tecnologias utilizadas
 ## Front end
 - React.js
+- Next.js
 - CSS
 - Typescript
 ## Implantação em produção
