@@ -10,7 +10,7 @@ export function Profile() {
         <div className={styles.profileContainer}>
             <img src="/award.svg" alt="Usuário" />
             <div>
-                <strong>Evolução</strong>
+                <strong>Experiência</strong>
                 <p>
                     <img src="icons/level.svg" alt="Level" />
                     Level {level}
