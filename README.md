@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://moveit-wheat-ten.vercel.app/
+https://moveit-onilio99.netlify.app/
 
 O Projeto consiste num sistema qual icentiva a prática de exércicios laborais dentro do ambiente de trabalho por meio da gameficação desse processo. Utilizamos Typescript com React.js para o desenvolvimento de uma aplicação Web publicada no Vercel.
 
