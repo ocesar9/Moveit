@@ -26,6 +26,4 @@ O Projeto consiste num sistema qual icentiva a prática de exércicios laborais 
 
 # Autor
 
-Júlio César de Oliveira Guimarães
-
-https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-de-oliveira-guimar%C3%A3es-183110162/
+[Júlio Guimarães](https://github.com/ocesar9)
