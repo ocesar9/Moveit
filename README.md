@@ -111,7 +111,7 @@ Este projeto está sob licença MIT. Veja o arquivo [LICENSE](https://github.com
 
 **Júlio Guimarães**
 - GitHub: [@ocesar9](https://github.com/ocesar9)
-- LinkedIn: [Seu perfil LinkedIn](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [Seu perfil LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/)
 
 ---
 
