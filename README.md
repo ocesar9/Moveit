@@ -81,19 +81,6 @@ yarn dev
 # Acesse http://localhost:3000 no seu navegador
 ```
 
-### Build para Produção
-```bash
-# Gera a build otimizada
-npm run build
-# ou
-yarn build
-
-# Inicia o servidor de produção
-npm start
-# ou
-yarn start
-```
-
 ## 🎯 Conceitos Aplicados
 
 - **Componentização** - Divisão da aplicação em componentes reutilizáveis
